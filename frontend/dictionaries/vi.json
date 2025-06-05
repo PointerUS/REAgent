@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "home": "Trang Chủ",
+    "properties": "Bất Động Sản",
+    "about": "Về Chúng Tôi",
+    "contact": "Liên Hệ",
+    "language": "Ngôn Ngữ"
+  },
+  "hero": {
+    "title": "Tìm Ngôi Nhà Mơ Ước",
+    "subtitle": "Khám phá những bất động sản cao cấp tại các vị trí đẹp nhất với dịch vụ chuyên nghiệp",
+    "searchPlaceholder": "Tìm kiếm theo vị trí, loại bất động sản...",
+    "searchButton": "Tìm Kiếm"
+  },
+  "features": {
+    "title": "Tại Sao Chọn Chúng Tôi",
+    "expert": {
+      "title": "Tư Vấn Chuyên Nghiệp",
+      "description": "Đội ngũ chuyên gia bất động sản hướng dẫn bạn từng bước"
+    },
+    "premium": {
+      "title": "Bất Động Sản Cao Cấp",
+      "description": "Tuyển chọn những bất động sản chất lượng cao tại vị trí đắc địa"
+    },
+    "support": {
+      "title": "Hỗ Trợ 24/7",
+      "description": "Dịch vụ chăm sóc khách hàng 24/7 cho mọi nhu cầu bất động sản"
+    }
+  },
+  "properties": {
+    "title": "Bất Động Sản Nổi Bật",
+    "viewAll": "Xem Tất Cả",
+    "bedrooms": "phòng ngủ",
+    "bathrooms": "phòng tắm",
+    "sqft": "m²",
+    "viewDetails": "Xem Chi Tiết",
+    "virtualTour": "Tour Ảo",
+    "take360Tour": "Xem Tour 360°",
+    "viewIn360": "Xem 360°"
+  },
+  "about": {
+    "title": "Về Công Ty Chúng Tôi",
+    "description": "Với hơn 15 năm kinh nghiệm trong ngành bất động sản, chúng tôi cam kết giúp bạn tìm được bất động sản hoàn hảo. Đội ngũ chuyên nghiệp tận tâm cung cấp dịch vụ cá nhân hóa và kiến thức thị trường chuyên sâu.",
+    "mission": "Sứ Mệnh",
+    "missionText": "Cung cấp dịch vụ bất động sản xuất sắc vượt trên mong đợi của khách hàng, xây dựng mối quan hệ lâu dài dựa trên niềm tin và sự chính trực.",
+    "values": "Giá Trị Cốt Lõi",
+    "valuesText": "Chính Trực, Xuất Sắc, Đổi Mới và Dịch Vụ Lấy Khách Hàng Làm Trung Tâm"
+  },
+  "contact": {
+    "title": "Liên Hệ",
+    "subtitle": "Kết nối với các chuyên gia bất động sản của chúng tôi",
+    "form": {
+      "name": "Họ và Tên",
+      "email": "Địa Chỉ Email",
+      "phone": "Số Điện Thoại",
+      "message": "Tin Nhắn",
+      "submit": "Gửi Tin Nhắn"
+    },
+    "info": {
+      "address": "123 Đường Bất Động Sản, Thành Phố, Tỉnh 12345",
+      "phone": "+84 (28) 123-4567",
+      "email": "info@batdongsan.com",
+      "hours": "T2-T6: 9h-18h, T7-CN: 10h-16h"
+    }
+  },
+  "filters": {
+    "priceRange": "Khoảng Giá",
+    "propertyType": "Loại Bất Động Sản",
+    "bedrooms": "Phòng Ngủ",
+    "location": "Vị Trí",
+    "apply": "Áp Dụng Bộ Lọc",
+    "clear": "Xóa Tất Cả"
+  },
+  "virtualTour": {
+    "title": "Tour Ảo",
+    "loading": "Đang tải Tour Ảo...",
+    "instructions": "Kéo để nhìn xung quanh • Nhấp vào điểm nóng để di chuyển • Sử dụng điều khiển để chuyển phòng",
+    "rooms": "Các Phòng",
+    "hotspots": {
+      "navigation": "Đi tới",
+      "info": "Thông Tin Thêm",
+      "media": "Xem Media"
+    },
+    "controls": {
+      "previous": "Phòng Trước",
+      "next": "Phòng Tiếp",
+      "home": "Phòng Chính",
+      "close": "Đóng Tour"
+    }
+  }
+}

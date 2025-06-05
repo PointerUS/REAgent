@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "home": "Home",
+    "properties": "Properties",
+    "about": "About Us",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Find Your Dream Home",
+    "subtitle": "Discover premium properties in the best locations with our expert real estate services",
+    "searchPlaceholder": "Search by location, property type...",
+    "searchButton": "Search Properties"
+  },
+  "features": {
+    "title": "Why Choose Us",
+    "expert": {
+      "title": "Expert Guidance",
+      "description": "Professional real estate experts to guide you through every step"
+    },
+    "premium": {
+      "title": "Premium Properties",
+      "description": "Curated selection of high-quality properties in prime locations"
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Round-the-clock customer support for all your real estate needs"
+    }
+  },
+  "properties": {
+    "title": "Featured Properties",
+    "viewAll": "View All Properties",
+    "bedrooms": "bedrooms",
+    "bathrooms": "bathrooms",
+    "sqft": "sq ft",
+    "viewDetails": "View Details",
+    "virtualTour": "Virtual Tour",
+    "take360Tour": "Take 360° Tour",
+    "viewIn360": "View in 360°"
+  },
+  "about": {
+    "title": "About Our Company",
+    "description": "With over 15 years of experience in the real estate industry, we are committed to helping you find the perfect property. Our team of dedicated professionals provides personalized service and expert market knowledge.",
+    "mission": "Our Mission",
+    "missionText": "To provide exceptional real estate services that exceed our clients' expectations while building lasting relationships based on trust and integrity.",
+    "values": "Our Values",
+    "valuesText": "Integrity, Excellence, Innovation, and Customer-Centric Service"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our real estate experts",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "address": "123 Real Estate Ave, City, State 12345",
+      "phone": "+1 (555) 123-4567",
+      "email": "info@realestate.com",
+      "hours": "Mon-Fri: 9AM-6PM, Sat-Sun: 10AM-4PM"
+    }
+  },
+  "filters": {
+    "priceRange": "Price Range",
+    "propertyType": "Property Type",
+    "bedrooms": "Bedrooms",
+    "location": "Location",
+    "apply": "Apply Filters",
+    "clear": "Clear All"
+  },
+  "virtualTour": {
+    "title": "Virtual Tour",
+    "loading": "Loading Virtual Tour...",
+    "instructions": "Drag to look around • Click hotspots to navigate • Use controls to switch rooms",
+    "rooms": "Rooms",
+    "hotspots": {
+      "navigation": "Go to",
+      "info": "More Info",
+      "media": "View Media"
+    },
+    "controls": {
+      "previous": "Previous Room",
+      "next": "Next Room",
+      "home": "Main Room",
+      "close": "Close Tour"
+    }
+  }
+}
